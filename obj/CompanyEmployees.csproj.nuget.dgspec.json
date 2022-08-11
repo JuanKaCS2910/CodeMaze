@@ -306,6 +306,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "F:\\CodeMaze\\CompanyEmployees6\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+                "projectPath": "F:\\CodeMaze\\CompanyEmployees6\\CompanyEmployees\\Contracts\\Contracts.csproj"
+              },
               "F:\\CodeMaze\\CompanyEmployees6\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "F:\\CodeMaze\\CompanyEmployees6\\CompanyEmployees\\Entities\\Entities.csproj"
               }
