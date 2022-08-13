@@ -194,7 +194,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "F:\\CodeMaze\\CompanyEmployees6\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "F:\\CodeMaze\\CompanyEmployees6\\CompanyEmployees\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -457,7 +461,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "F:\\CodeMaze\\CompanyEmployees6\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "F:\\CodeMaze\\CompanyEmployees6\\CompanyEmployees\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
