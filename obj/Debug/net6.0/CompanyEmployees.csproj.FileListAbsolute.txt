@@ -77,3 +77,5 @@ F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0
 F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.pdb
 F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Shared.dll
 F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Shared.pdb
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\AutoMapper.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
