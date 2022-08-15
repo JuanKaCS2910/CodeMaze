@@ -66,3 +66,14 @@ F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0
 F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Humanizer.dll
 F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\CompanyEmployees.Presentation.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.Contracts.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\CompanyEmployees.Presentation.pdb
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.Contracts.pdb
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.pdb
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Shared.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Shared.pdb
