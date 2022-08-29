@@ -1,0 +1,12 @@
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\Entities\bin\Debug\net6.0\Entities.deps.json
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\Entities\bin\Debug\net6.0\Entities.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\Entities\bin\Debug\net6.0\Entities.pdb
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\Entities\obj\Debug\net6.0\refint\Entities.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.pdb
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\Entities\obj\Debug\net6.0\ref\Entities.dll

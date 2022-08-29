@@ -1,0 +1,17 @@
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.deps.json
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.pdb
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Service.Contracts.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Service.Contracts.pdb
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.AssemblyReference.cache
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.AssemblyInfoInputs.cache
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.AssemblyInfo.cs
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.CoreCompileInputs.cache
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.CopyComplete
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\refint\CompanyEmployees.Presentation.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.pdb
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\ref\CompanyEmployees.Presentation.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Shared.dll
+F:\CodeMaze\CompanyEmployees6\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Shared.pdb
