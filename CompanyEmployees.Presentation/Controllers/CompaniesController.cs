@@ -5,7 +5,7 @@ using Shared.DataTransferObjects;
 namespace CompanyEmployees.Presentation.Controllers
 {
     [Route("api/[controller]")]
-    [ApiController]
+    //[ApiController]
     public class CompaniesController : ControllerBase
     {
         private readonly IServiceManager _service;
