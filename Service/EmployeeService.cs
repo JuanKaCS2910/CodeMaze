@@ -83,6 +83,21 @@ namespace Service
 
         }
 
+        public void UpdateEmployeeForCompany(Guid companyId, Guid id, EmployeeForUpdateDto employeeForUpdateDto, bool compTrackChanges, bool empTrackChanges)
+        {
+            var company = _repository.Company.GetCompany(companyId, compTrackChanges);
+            if (company is null)
+                throw new CompanyNotFoundException(companyId);
+
+            var employeeForEntity = _repository.Employee.GetEmployee(companyId, id, empTrackChanges);
+
+            if (employeeForEntity is null)
+                throw new EmployeeNotFoundException(id);
+
+            _mapper.Map(employeeForUpdateDto, employeeForEntity);
+            _repository.Save();
+        }
+
 
     }
 }
